@@ -22,16 +22,6 @@ O **Dio Banco** foi criado com o objetivo de explorar conceitos de programação
     ```bash
     cd dio-banco
     ```
-3. [Adicione instruções específicas para rodar o projeto]
-
 ## 🤝 Contribuições
 
 Contribuições são sempre bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests.
-
-## 📄 Licença
-
-Este projeto está sob a licença [especifique a licença]. Consulte o arquivo `LICENSE` para mais detalhes.
-
----
-
-💡 **Dica**: Este projeto é perfeito para quem deseja aprender mais sobre [conceitos específicos do projeto]. Divirta-se explorando o **Dio Banco**!
