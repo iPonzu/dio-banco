@@ -1,4 +1,4 @@
-# 🚀 Dio Banco
+# 🚀 Dio Banco Java
 
 Bem-vindo ao **Dio Banco**, um projeto inovador para simular operações bancárias de forma simples e eficiente! 💳🏦
 
@@ -11,12 +11,6 @@ O **Dio Banco** foi criado com o objetivo de explorar conceitos de programação
 - 📂 **Gerenciamento de Contas**: Criação e exclusão de contas bancárias.
 - 💰 **Operações Financeiras**: Realize depósitos, saques e transferências.
 - 📊 **Relatórios**: Consulte o saldo e o histórico de transações.
-
-## 🧑‍💻 Tecnologias Utilizadas
-
-- **Linguagem**: [Especifique aqui a linguagem principal do projeto]
-- **Frameworks/Bibliotecas**: [Liste aqui as ferramentas utilizadas]
-- **Outras Ferramentas**: [Adicione outras tecnologias relevantes]
 
 ## 🚧 Como Executar o Projeto
 
